@@ -9,7 +9,7 @@
 */
 /* Selector de Etiqueta */
 body{
-    background-color: #ffff00;
+    background-color: #ff0095;
 }
 
 p{
@@ -18,8 +18,8 @@ p{
 }
 
 h1{
-    color: #1919e2;
-    font-size: 30px;
+    color: #e26619;
+    font-size: 130px;
     font-style: italic;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
