@@ -2,7 +2,7 @@
 
 function montoPagar () {
 
-    event.preventDefault();    
+    Event.preventDefault();    
 
 let cantidad = parseInt(document.getElementById("input-cantidad").value);
 let categoria = document.getElementById("select-tickets").value;
